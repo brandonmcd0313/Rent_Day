@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 58baaed8a5715cb4a9e6af986d3f9a07
+timeCreated: 1663262357
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Burble VP
+  fontNames:
+  - Burble VP
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c7c407737bb0e6949b3d6b0e343abe83, type: 3}
+  - {fileID: 12800000, guid: 79ceab0753ae9e149adc676b33a3c495, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
